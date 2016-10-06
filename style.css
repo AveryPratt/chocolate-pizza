@@ -1,5 +1,4 @@
 header {
-  /*border-bottom: 2px solid black;*/
   border-bottom: 10px solid #cccccc;
 }
 
@@ -39,7 +38,7 @@ html, body {
   font-family: verdana;
   font-size: 12px;
   color: #444444;
-  margin: 0px 100px;
+  margin: 100px;
 }
 
 h1 {
