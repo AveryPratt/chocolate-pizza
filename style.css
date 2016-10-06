@@ -1,0 +1,30 @@
+header {
+  border-bottom: 2px solid black;
+}
+
+header img {
+  float:left;
+}
+
+header ul {
+  width: 300px;
+  padding-left: 0px;
+  position:relative;
+  margin-right: 0px;
+  margin-left: 100%;
+  right: 300px;
+  bottom: 50px;
+  display: inline-block;
+}
+
+header ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+header h2, header h5 {
+  width: 500px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
